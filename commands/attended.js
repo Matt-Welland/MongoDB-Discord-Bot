@@ -49,9 +49,7 @@ exports.run = async (client, message) => {
         function (error, data) {
           // If we retrieve an error connecting to DB...
           if (error) {
-            message.channel.send(
-              '**Error Connecting to MongoDB. Contact Cookie.**'
-            );
+            message.channel.send('**Error Connecting to MongoDB.**');
           }
 
           // If we can succsesfully connect to DB...

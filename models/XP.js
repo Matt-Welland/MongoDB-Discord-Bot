@@ -3,7 +3,7 @@
  */
 var mongoose = require('mongoose');
 
-var cookieSchema = new mongoose.Schema({
+var userSchema = new mongoose.Schema({
   rsn: String,
   xp: Number,
   rank: String,
@@ -15,4 +15,4 @@ var cookieSchema = new mongoose.Schema({
 });
 
 // Exporty export
-module.exports = mongoose.model('xp', cookieSchema);
+module.exports = mongoose.model('xp', userSchema);
