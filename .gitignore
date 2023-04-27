@@ -1,0 +1,20 @@
+# Ignore node_modules folder
+node_modules
+
+# Ignore files related to API keys
+.env
+
+# Ignore Config.json config files
+/config.json
+
+# Ignore Nodemon Ignore 
+nodemon.json
+
+# Ignore JSON files that update
+players.json
+playerselected.json
+guides.json
+events.json
+
+# Ignore unnecasary Package-lock.sjon
+package-lock.json

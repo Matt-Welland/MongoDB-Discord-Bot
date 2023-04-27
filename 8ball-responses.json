@@ -1,0 +1,124 @@
+{
+  "answers": [
+    {
+      "answer": "That is a great idea",
+      "type": "positive"
+    },
+    {
+      "answer": "No, that is a terrible idea. Please stop thinking that idea.",
+      "type": "negative"
+    },
+    {
+      "answer": "Maybe you should ask someone in the CC",
+      "type": "neutral"
+    },
+    {
+      "answer": "I don't know where you get these idea, but they are brilliant!",
+      "type": "positive"
+    },
+    {
+      "answer": "You should never have asked that question...",
+      "type": "negative"
+    },
+    {
+      "answer": "I'm not sure, uh-oh",
+      "type": "neutral"
+    },
+    {
+      "answer": "JUST DO IT",
+      "type": "positive"
+    },
+    {
+      "answer": "Rumour has it, if you get 99 runecrafting, the answer will become clear",
+      "type": "neutral"
+    },
+    {
+      "answer": "Someone might have the answer, but they won't tell you",
+      "type": "negative"
+    },
+    {
+      "answer": "The answer is... **Please purchase DLC to reveal answer**",
+      "type": "neutral"
+    },
+    {
+      "answer": "Why are you even asking this?",
+      "type": "negative"
+    },
+    {
+      "answer": "Do it! OMG! Do it! Do it now.",
+      "type": "positive"
+    },
+    {
+      "answer": "Stop asking me ridiculous questions",
+      "type": "negative"
+    },
+    {
+      "answer": "Bots don't have feelings, but if they did they wouldn't appreciate you asking them such silly questions",
+      "type": "negative"
+    },
+    {
+      "answer": "You could do that, but wouldn't it be easier to order pizza?",
+      "type": "neutral"
+    },
+    {
+      "answer": "No... I mean yes... Well... Ask again later.",
+      "type": "neutral"
+    },
+    {
+      "answer": "The answer is unclear... Seriously I double checked.",
+      "type": "neutral"
+    },
+    {
+      "answer": "It's a coin flip really...",
+      "type": "neutral"
+    },
+    {
+      "answer": "I could tell you, but I'd have to perma-ban you.",
+      "type": "negative"
+    },
+    {
+      "answer": "Yes, No, Maybe... I don't know, could you repeat the question?",
+      "type": "neutral"
+    },
+    {
+      "answer": "Do you REALLY want me to answer that? OK... Maybe.",
+      "type": "neutral"
+    },
+    {
+      "answer": "YesNoYesNoYesNoYesNoYesNo ERR! code 404 - GET Answer Not Found",
+      "type": "neutral"
+    },
+    {
+      "answer": "Ask yourself this question in the mirror three times, the answer will become clear.",
+      "type": "neutral"
+    },
+    {
+      "answer": "You want an answer? OK, here's your answer: _______",
+      "type": "neutral"
+    },
+    {
+      "answer": "It is decidedly so.",
+      "type": "positive"
+    },
+    {
+      "answer": "My sources say no.",
+      "type": "negative"
+    },
+    {
+      "answer": "Forget about that",
+      "type": "negative"
+    },
+    {
+      "answer": "It will never happen my friend",
+      "type": "negative"
+    },
+    {
+      "answer": "You did a terrible job with that one",
+      "type": "negative"
+    },
+    {
+      "answer": "That's a stupid question",
+      "type": "negative"
+    }
+  ]
+}
